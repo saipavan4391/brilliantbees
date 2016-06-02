@@ -1,0 +1,6 @@
+apply plugin: 'java'
+
+dependencies {
+    compile files('libs/unity-plugin-library.jar')
+    compile files('libs/UnityAdsAdapter.jar')
+}

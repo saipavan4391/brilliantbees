@@ -1,0 +1,319 @@
+fileFormatVersion: 2
+guid: 4c2178e067fa2ba4d9ebdbb985c191a4
+timeCreated: 1459875542
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: coalbeespritesheet_0
+    21300002: coalbeespritesheet_1
+    21300004: coalbeespritesheet_2
+    21300006: coalbeespritesheet_3
+    21300008: coalbeespritesheet_4
+    21300010: coalbeespritesheet_5
+    21300012: coalbeespritesheet_6
+    21300014: coalbeespritesheet_7
+    21300016: coalbeespritesheet_8
+    21300018: coalbeespritesheet_9
+    21300020: coalbeespritesheet_10
+    21300022: coalbeespritesheet_11
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: coalbeespritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1117
+        width: 438
+        height: 464
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63.79474, y: 78.752655}
+        - {x: -73.79474, y: 69.752655}
+        - {x: -73.79474, y: -33.247345}
+        - {x: -60.79474, y: -60.247345}
+        - {x: -41.79474, y: -78.247345}
+        - {x: 75.20526, y: -78.247345}
+        - {x: 75.20526, y: 57.752655}
+        - {x: 52.20526, y: 78.752655}
+    - name: coalbeespritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 1116
+        width: 485
+        height: 462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 68.37897, y: -56.584198}
+        - {x: 82.37897, y: -20.584198}
+        - {x: 82.37897, y: 57.415802}
+        - {x: 30.378967, y: 79.4158}
+        - {x: -38.621033, y: 79.4158}
+        - {x: -64.62103, y: 68.4158}
+        - {x: -81.62103, y: 23.415802}
+        - {x: -81.62103, y: -21.584198}
+        - {x: -44.621033, y: -53.584198}
+        - {x: -30.621033, y: -57.584198}
+        - {x: -21.621033, y: -58.584198}
+        - {x: -7.6210327, y: -76.5842}
+        - {x: -3.6210327, y: -77.5842}
+        - {x: 11.378967, y: -77.5842}
+        - {x: 16.378967, y: -71.5842}
+        - {x: 23.378967, y: -77.5842}
+        - {x: 34.378967, y: -77.5842}
+    - name: coalbeespritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 1116
+        width: 464
+        height: 462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -74.394714, y: 79.4158}
+        - {x: -78.394714, y: 66.4158}
+        - {x: -78.394714, y: -32.584198}
+        - {x: -64.394714, y: -46.584198}
+        - {x: -20.394714, y: -77.5842}
+        - {x: 55.605286, y: -77.5842}
+        - {x: 78.605286, y: -61.584198}
+        - {x: 78.605286, y: 79.4158}
+    - name: coalbeespritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 2494
+        y: 1117
+        width: 440
+        height: 462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 69.58423, y: 78.252655}
+        - {x: -74.41577, y: 78.252655}
+        - {x: -74.41577, y: -66.747345}
+        - {x: -36.41577, y: -77.747345}
+        - {x: 39.58423, y: -77.747345}
+        - {x: 42.58423, y: -75.747345}
+        - {x: 74.58423, y: -47.747345}
+        - {x: 74.58423, y: 60.252655}
+    - name: coalbeespritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 564
+        width: 485
+        height: 461
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 65.28421, y: 55.47896}
+        - {x: 41.28421, y: 69.47896}
+        - {x: 19.28421, y: 79.47896}
+        - {x: -47.71579, y: 79.47896}
+        - {x: -81.71579, y: 34.47896}
+        - {x: -81.71579, y: -33.52104}
+        - {x: -73.71579, y: -64.52104}
+        - {x: -52.71579, y: -77.52104}
+        - {x: 43.28421, y: -77.52104}
+        - {x: 61.28421, y: -54.52104}
+        - {x: 82.28421, y: 10.478958}
+        - {x: 82.28421, y: 44.47896}
+    - name: coalbeespritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 564
+        width: 460
+        height: 461
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63.56842, y: 79.47896}
+        - {x: -77.56842, y: 68.47896}
+        - {x: -77.56842, y: -38.52104}
+        - {x: -70.56842, y: -56.52104}
+        - {x: -25.56842, y: -77.52104}
+        - {x: 32.43158, y: -77.52104}
+        - {x: 68.43158, y: -67.52104}
+        - {x: 78.43158, y: -29.521042}
+        - {x: 78.43158, y: 71.47896}
+        - {x: 64.43158, y: 79.47896}
+    - name: coalbeespritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 564
+        width: 440
+        height: 461
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64.3526, y: 79.47896}
+        - {x: -74.3526, y: 48.47896}
+        - {x: -74.3526, y: -49.52104}
+        - {x: -70.3526, y: -64.52104}
+        - {x: -28.3526, y: -77.52104}
+        - {x: 47.6474, y: -77.52104}
+        - {x: 66.6474, y: -59.52104}
+        - {x: 74.6474, y: -43.52104}
+        - {x: 74.6474, y: 79.47896}
+    - name: coalbeespritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 564
+        width: 485
+        height: 461
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -57.826294, y: 79.47896}
+        - {x: -81.826294, y: 36.47896}
+        - {x: -81.826294, y: -42.52104}
+        - {x: -19.826294, y: -77.52104}
+        - {x: 83.173706, y: -77.52104}
+        - {x: 83.173706, y: 79.47896}
+    - name: coalbeespritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 45
+        width: 458
+        height: 459
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 68.82632, y: 77.6579}
+        - {x: -43.173683, y: 77.6579}
+        - {x: -77.17368, y: 46.657898}
+        - {x: -77.17368, y: -51.342102}
+        - {x: -75.17368, y: -63.342102}
+        - {x: -27.173683, y: -77.3421}
+        - {x: 37.826317, y: -77.3421}
+        - {x: 68.82632, y: -58.342102}
+        - {x: 77.82632, y: -28.342102}
+        - {x: 77.82632, y: 72.6579}
+    - name: coalbeespritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 47
+        width: 441
+        height: 462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.373657, y: 79.33158}
+        - {x: -46.373657, y: 70.33158}
+        - {x: -74.37366, y: 48.33158}
+        - {x: -74.37366, y: -53.66842}
+        - {x: -40.373657, y: -77.66842}
+        - {x: 71.62634, y: -77.66842}
+        - {x: 74.62634, y: -75.66842}
+        - {x: 74.62634, y: 79.33158}
+    - name: coalbeespritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 45
+        width: 485
+        height: 462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 83.22632, y: 42.157898}
+        - {x: 71.22632, y: 64.1579}
+        - {x: 25.226318, y: 78.1579}
+        - {x: -32.77368, y: 78.1579}
+        - {x: -42.77368, y: 73.1579}
+        - {x: -81.77368, y: 20.157898}
+        - {x: -81.77368, y: -29.842102}
+        - {x: -55.77368, y: -54.842102}
+        - {x: -9.773682, y: -77.8421}
+        - {x: 17.226318, y: -77.8421}
+        - {x: 38.22632, y: -76.8421}
+        - {x: 63.22632, y: -55.842102}
+        - {x: 83.22632, y: -1.842102}
+    - name: coalbeespritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 2481
+        y: 45
+        width: 463
+        height: 462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36.205322, y: 78.1579}
+        - {x: -63.794678, y: 78.1579}
+        - {x: -77.79468, y: 69.1579}
+        - {x: -77.79468, y: -52.842102}
+        - {x: -60.794678, y: -77.8421}
+        - {x: 57.205322, y: -77.8421}
+        - {x: 72.20532, y: -59.842102}
+        - {x: 79.20532, y: -22.842102}
+        - {x: 79.20532, y: 66.1579}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

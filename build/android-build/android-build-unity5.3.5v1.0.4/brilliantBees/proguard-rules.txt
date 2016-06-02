@@ -1,0 +1,8 @@
+-keepattributes SourceFile,LineNumberTable
+-keepattributes JavascriptInterface
+-keep class com.unity3d.ads.android.**
+-dontwarn com.google.android.gms.**
+-keep class com.google.android.gms.*
+-dontwarn com.unity3d.player.**
+-keep class com.unity3d.player.*
+{ *; }

@@ -1,0 +1,539 @@
+[
+    {
+        "outputFile": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\res\\merged\\androidTest\\debug\\values-te-rIN\\values-te-rIN.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 261,
+                    "endOffset": 362
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-te-rIN\\values-te-rIN.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 105,
+                        "endColumn": 261,
+                        "endOffset": 362
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 367,
+                    "endColumn": 130,
+                    "endOffset": 493
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-te-rIN\\values-te-rIN.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 367,
+                        "endColumn": 130,
+                        "endOffset": 493
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 498,
+                    "endColumn": 185,
+                    "endOffset": 679
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-te-rIN\\values-te-rIN.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 498,
+                        "endColumn": 185,
+                        "endOffset": 679
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 684,
+                    "endColumn": 131,
+                    "endOffset": 811
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-te-rIN\\values-te-rIN.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 684,
+                        "endColumn": 131,
+                        "endOffset": 811
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 816,
+                    "endColumn": 127,
+                    "endOffset": 939
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-te-rIN\\values-te-rIN.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 816,
+                        "endColumn": 127,
+                        "endOffset": 939
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 944,
+                    "endColumn": 200,
+                    "endOffset": 1140
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-te-rIN\\values-te-rIN.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 944,
+                        "endColumn": 200,
+                        "endOffset": 1140
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 1145,
+                    "endColumn": 205,
+                    "endOffset": 1346
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-te-rIN\\values-te-rIN.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 1145,
+                        "endColumn": 205,
+                        "endOffset": 1346
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 1351,
+                    "endColumn": 126,
+                    "endOffset": 1473
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-te-rIN\\values-te-rIN.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 1351,
+                        "endColumn": 126,
+                        "endOffset": 1473
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 1478,
+                    "endColumn": 169,
+                    "endOffset": 1643
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-te-rIN\\values-te-rIN.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 1478,
+                        "endColumn": 169,
+                        "endOffset": 1643
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1648,
+                    "endColumn": 117,
+                    "endOffset": 1761
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-te-rIN\\values-te-rIN.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1648,
+                        "endColumn": 117,
+                        "endOffset": 1761
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1766,
+                    "endColumn": 162,
+                    "endOffset": 1924
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-te-rIN\\values-te-rIN.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1766,
+                        "endColumn": 162,
+                        "endOffset": 1924
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1929,
+                    "endColumn": 131,
+                    "endOffset": 2056
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-te-rIN\\values-te-rIN.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1929,
+                        "endColumn": 131,
+                        "endOffset": 2056
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 2061,
+                    "endColumn": 137,
+                    "endOffset": 2194
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-te-rIN\\values-te-rIN.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 2061,
+                        "endColumn": 137,
+                        "endOffset": 2194
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 2199,
+                    "endColumn": 174,
+                    "endOffset": 2369
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-te-rIN\\values-te-rIN.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 2199,
+                        "endColumn": 174,
+                        "endOffset": 2369
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 2374,
+                    "endColumn": 129,
+                    "endOffset": 2499
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-te-rIN\\values-te-rIN.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 2374,
+                        "endColumn": 129,
+                        "endOffset": 2499
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 2504,
+                    "endColumn": 183,
+                    "endOffset": 2683
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-te-rIN\\values-te-rIN.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 2504,
+                        "endColumn": 183,
+                        "endOffset": 2683
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 2688,
+                    "endColumn": 125,
+                    "endOffset": 2809
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-te-rIN\\values-te-rIN.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 2688,
+                        "endColumn": 125,
+                        "endOffset": 2809
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 2814,
+                    "endColumn": 230,
+                    "endOffset": 3040
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-te-rIN\\values-te-rIN.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 2814,
+                        "endColumn": 230,
+                        "endOffset": 3040
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 3045,
+                    "endColumn": 120,
+                    "endOffset": 3161
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-te-rIN\\values-te-rIN.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 3045,
+                        "endColumn": 120,
+                        "endOffset": 3161
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 3166,
+                    "endColumn": 109,
+                    "endOffset": 3271
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-te-rIN\\values-te-rIN.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 3166,
+                        "endColumn": 109,
+                        "endOffset": 3271
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 3276,
+                    "endColumn": 183,
+                    "endOffset": 3455
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-te-rIN\\values-te-rIN.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 3276,
+                        "endColumn": 183,
+                        "endOffset": 3455
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 3460,
+                    "endColumn": 129,
+                    "endOffset": 3585
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-te-rIN\\values-te-rIN.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 3460,
+                        "endColumn": 129,
+                        "endOffset": 3585
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 3590,
+                    "endColumn": 209,
+                    "endOffset": 3795
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-te-rIN\\values-te-rIN.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 3590,
+                        "endColumn": 209,
+                        "endOffset": 3795
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 3800,
+                    "endColumn": 138,
+                    "endOffset": 3934
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-te-rIN\\values-te-rIN.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 3800,
+                        "endColumn": 138,
+                        "endOffset": 3934
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 3939,
+                    "endColumn": 188,
+                    "endOffset": 4123
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-te-rIN\\values-te-rIN.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 3939,
+                        "endColumn": 188,
+                        "endOffset": 4123
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 4128,
+                    "endColumn": 92,
+                    "endOffset": 4216
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-te-rIN\\values-te-rIN.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 4128,
+                        "endColumn": 92,
+                        "endOffset": 4216
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 4221,
+                    "endColumn": 97,
+                    "endOffset": 4314
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-te-rIN\\values-te-rIN.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 4221,
+                        "endColumn": 97,
+                        "endOffset": 4314
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 4319,
+                    "endColumn": 111,
+                    "endOffset": 4426
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-te-rIN\\values-te-rIN.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 4319,
+                        "endColumn": 111,
+                        "endOffset": 4426
+                    }
+                }
+            }
+        ]
+    }
+]

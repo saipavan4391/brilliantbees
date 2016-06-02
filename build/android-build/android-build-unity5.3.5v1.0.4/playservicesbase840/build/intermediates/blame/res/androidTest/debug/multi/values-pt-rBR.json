@@ -1,0 +1,539 @@
+[
+    {
+        "outputFile": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\res\\merged\\androidTest\\debug\\values-pt-rBR\\values-pt-rBR.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 276,
+                    "endOffset": 377
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-pt-rBR\\values-pt-rBR.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 105,
+                        "endColumn": 276,
+                        "endOffset": 377
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 382,
+                    "endColumn": 129,
+                    "endOffset": 507
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-pt-rBR\\values-pt-rBR.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 382,
+                        "endColumn": 129,
+                        "endOffset": 507
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 512,
+                    "endColumn": 179,
+                    "endOffset": 687
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-pt-rBR\\values-pt-rBR.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 512,
+                        "endColumn": 179,
+                        "endOffset": 687
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 692,
+                    "endColumn": 128,
+                    "endOffset": 816
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-pt-rBR\\values-pt-rBR.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 692,
+                        "endColumn": 128,
+                        "endOffset": 816
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 821,
+                    "endColumn": 132,
+                    "endOffset": 949
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-pt-rBR\\values-pt-rBR.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 821,
+                        "endColumn": 132,
+                        "endOffset": 949
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 954,
+                    "endColumn": 224,
+                    "endOffset": 1174
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-pt-rBR\\values-pt-rBR.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 954,
+                        "endColumn": 224,
+                        "endOffset": 1174
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 1179,
+                    "endColumn": 221,
+                    "endOffset": 1396
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-pt-rBR\\values-pt-rBR.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 1179,
+                        "endColumn": 221,
+                        "endOffset": 1396
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 1401,
+                    "endColumn": 131,
+                    "endOffset": 1528
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-pt-rBR\\values-pt-rBR.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 1401,
+                        "endColumn": 131,
+                        "endOffset": 1528
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 1533,
+                    "endColumn": 175,
+                    "endOffset": 1704
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-pt-rBR\\values-pt-rBR.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 1533,
+                        "endColumn": 175,
+                        "endOffset": 1704
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1709,
+                    "endColumn": 119,
+                    "endOffset": 1824
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-pt-rBR\\values-pt-rBR.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1709,
+                        "endColumn": 119,
+                        "endOffset": 1824
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1829,
+                    "endColumn": 177,
+                    "endOffset": 2002
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-pt-rBR\\values-pt-rBR.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1829,
+                        "endColumn": 177,
+                        "endOffset": 2002
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 2007,
+                    "endColumn": 118,
+                    "endOffset": 2121
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-pt-rBR\\values-pt-rBR.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 2007,
+                        "endColumn": 118,
+                        "endOffset": 2121
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 2126,
+                    "endColumn": 134,
+                    "endOffset": 2256
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-pt-rBR\\values-pt-rBR.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 2126,
+                        "endColumn": 134,
+                        "endOffset": 2256
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 2261,
+                    "endColumn": 176,
+                    "endOffset": 2433
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-pt-rBR\\values-pt-rBR.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 2261,
+                        "endColumn": 176,
+                        "endOffset": 2433
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 2438,
+                    "endColumn": 126,
+                    "endOffset": 2560
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-pt-rBR\\values-pt-rBR.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 2438,
+                        "endColumn": 126,
+                        "endOffset": 2560
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 2565,
+                    "endColumn": 167,
+                    "endOffset": 2728
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-pt-rBR\\values-pt-rBR.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 2565,
+                        "endColumn": 167,
+                        "endOffset": 2728
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 2733,
+                    "endColumn": 121,
+                    "endOffset": 2850
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-pt-rBR\\values-pt-rBR.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 2733,
+                        "endColumn": 121,
+                        "endOffset": 2850
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 2855,
+                    "endColumn": 268,
+                    "endOffset": 3119
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-pt-rBR\\values-pt-rBR.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 2855,
+                        "endColumn": 268,
+                        "endOffset": 3119
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 3124,
+                    "endColumn": 123,
+                    "endOffset": 3243
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-pt-rBR\\values-pt-rBR.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 3124,
+                        "endColumn": 123,
+                        "endOffset": 3243
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 3248,
+                    "endColumn": 109,
+                    "endOffset": 3353
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-pt-rBR\\values-pt-rBR.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 3248,
+                        "endColumn": 109,
+                        "endOffset": 3353
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 3358,
+                    "endColumn": 194,
+                    "endOffset": 3548
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-pt-rBR\\values-pt-rBR.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 3358,
+                        "endColumn": 194,
+                        "endOffset": 3548
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 3553,
+                    "endColumn": 131,
+                    "endOffset": 3680
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-pt-rBR\\values-pt-rBR.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 3553,
+                        "endColumn": 131,
+                        "endOffset": 3680
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 3685,
+                    "endColumn": 215,
+                    "endOffset": 3896
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-pt-rBR\\values-pt-rBR.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 3685,
+                        "endColumn": 215,
+                        "endOffset": 3896
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 3901,
+                    "endColumn": 136,
+                    "endOffset": 4033
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-pt-rBR\\values-pt-rBR.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 3901,
+                        "endColumn": 136,
+                        "endOffset": 4033
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 4038,
+                    "endColumn": 186,
+                    "endOffset": 4220
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-pt-rBR\\values-pt-rBR.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 4038,
+                        "endColumn": 186,
+                        "endOffset": 4220
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 4225,
+                    "endColumn": 97,
+                    "endOffset": 4318
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-pt-rBR\\values-pt-rBR.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 4225,
+                        "endColumn": 97,
+                        "endOffset": 4318
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 4323,
+                    "endColumn": 95,
+                    "endOffset": 4414
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-pt-rBR\\values-pt-rBR.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 4323,
+                        "endColumn": 95,
+                        "endOffset": 4414
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 4419,
+                    "endColumn": 113,
+                    "endOffset": 4528
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-pt-rBR\\values-pt-rBR.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 4419,
+                        "endColumn": 113,
+                        "endOffset": 4528
+                    }
+                }
+            }
+        ]
+    }
+]

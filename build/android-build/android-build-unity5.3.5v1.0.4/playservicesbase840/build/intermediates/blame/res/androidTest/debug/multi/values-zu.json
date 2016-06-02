@@ -1,0 +1,539 @@
+[
+    {
+        "outputFile": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\res\\merged\\androidTest\\debug\\values-zu\\values-zu.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 266,
+                    "endOffset": 367
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-zu\\values-zu.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 105,
+                        "endColumn": 266,
+                        "endOffset": 367
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 372,
+                    "endColumn": 137,
+                    "endOffset": 505
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-zu\\values-zu.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 372,
+                        "endColumn": 137,
+                        "endOffset": 505
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 510,
+                    "endColumn": 207,
+                    "endOffset": 713
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-zu\\values-zu.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 510,
+                        "endColumn": 207,
+                        "endOffset": 713
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 718,
+                    "endColumn": 136,
+                    "endOffset": 850
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-zu\\values-zu.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 718,
+                        "endColumn": 136,
+                        "endOffset": 850
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 855,
+                    "endColumn": 131,
+                    "endOffset": 982
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-zu\\values-zu.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 855,
+                        "endColumn": 131,
+                        "endOffset": 982
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 987,
+                    "endColumn": 228,
+                    "endOffset": 1211
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-zu\\values-zu.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 987,
+                        "endColumn": 228,
+                        "endOffset": 1211
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 1216,
+                    "endColumn": 235,
+                    "endOffset": 1447
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-zu\\values-zu.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 1216,
+                        "endColumn": 235,
+                        "endOffset": 1447
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 1452,
+                    "endColumn": 130,
+                    "endOffset": 1578
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-zu\\values-zu.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 1452,
+                        "endColumn": 130,
+                        "endOffset": 1578
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 1583,
+                    "endColumn": 187,
+                    "endOffset": 1766
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-zu\\values-zu.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 1583,
+                        "endColumn": 187,
+                        "endOffset": 1766
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1771,
+                    "endColumn": 131,
+                    "endOffset": 1898
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-zu\\values-zu.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1771,
+                        "endColumn": 131,
+                        "endOffset": 1898
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1903,
+                    "endColumn": 179,
+                    "endOffset": 2078
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-zu\\values-zu.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1903,
+                        "endColumn": 179,
+                        "endOffset": 2078
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 2083,
+                    "endColumn": 126,
+                    "endOffset": 2205
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-zu\\values-zu.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 2083,
+                        "endColumn": 126,
+                        "endOffset": 2205
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 2210,
+                    "endColumn": 139,
+                    "endOffset": 2345
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-zu\\values-zu.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 2210,
+                        "endColumn": 139,
+                        "endOffset": 2345
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 2350,
+                    "endColumn": 182,
+                    "endOffset": 2528
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-zu\\values-zu.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 2350,
+                        "endColumn": 182,
+                        "endOffset": 2528
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 2533,
+                    "endColumn": 134,
+                    "endOffset": 2663
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-zu\\values-zu.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 2533,
+                        "endColumn": 134,
+                        "endOffset": 2663
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 2668,
+                    "endColumn": 191,
+                    "endOffset": 2855
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-zu\\values-zu.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 2668,
+                        "endColumn": 191,
+                        "endOffset": 2855
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 2860,
+                    "endColumn": 136,
+                    "endOffset": 2992
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-zu\\values-zu.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 2860,
+                        "endColumn": 136,
+                        "endOffset": 2992
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 2997,
+                    "endColumn": 244,
+                    "endOffset": 3237
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-zu\\values-zu.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 2997,
+                        "endColumn": 244,
+                        "endOffset": 3237
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 3242,
+                    "endColumn": 127,
+                    "endOffset": 3365
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-zu\\values-zu.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 3242,
+                        "endColumn": 127,
+                        "endOffset": 3365
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 3370,
+                    "endColumn": 111,
+                    "endOffset": 3477
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-zu\\values-zu.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 3370,
+                        "endColumn": 111,
+                        "endOffset": 3477
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 3482,
+                    "endColumn": 204,
+                    "endOffset": 3682
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-zu\\values-zu.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 3482,
+                        "endColumn": 204,
+                        "endOffset": 3682
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 3687,
+                    "endColumn": 132,
+                    "endOffset": 3815
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-zu\\values-zu.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 3687,
+                        "endColumn": 132,
+                        "endOffset": 3815
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 3820,
+                    "endColumn": 216,
+                    "endOffset": 4032
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-zu\\values-zu.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 3820,
+                        "endColumn": 216,
+                        "endOffset": 4032
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 4037,
+                    "endColumn": 138,
+                    "endOffset": 4171
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-zu\\values-zu.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 4037,
+                        "endColumn": 138,
+                        "endOffset": 4171
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 4176,
+                    "endColumn": 186,
+                    "endOffset": 4358
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-zu\\values-zu.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 4176,
+                        "endColumn": 186,
+                        "endOffset": 4358
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 4363,
+                    "endColumn": 89,
+                    "endOffset": 4448
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-zu\\values-zu.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 4363,
+                        "endColumn": 89,
+                        "endOffset": 4448
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 4453,
+                    "endColumn": 98,
+                    "endOffset": 4547
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-zu\\values-zu.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 4453,
+                        "endColumn": 98,
+                        "endOffset": 4547
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 4552,
+                    "endColumn": 114,
+                    "endOffset": 4662
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-zu\\values-zu.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 4552,
+                        "endColumn": 114,
+                        "endOffset": 4662
+                    }
+                }
+            }
+        ]
+    }
+]

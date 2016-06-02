@@ -1,0 +1,539 @@
+[
+    {
+        "outputFile": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\res\\merged\\androidTest\\debug\\values-sq-rAL\\values-sq-rAL.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 267,
+                    "endOffset": 368
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-sq-rAL\\values-sq-rAL.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 105,
+                        "endColumn": 267,
+                        "endOffset": 368
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 373,
+                    "endColumn": 139,
+                    "endOffset": 508
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-sq-rAL\\values-sq-rAL.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 373,
+                        "endColumn": 139,
+                        "endOffset": 508
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 513,
+                    "endColumn": 204,
+                    "endOffset": 713
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-sq-rAL\\values-sq-rAL.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 513,
+                        "endColumn": 204,
+                        "endOffset": 713
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 718,
+                    "endColumn": 138,
+                    "endOffset": 852
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-sq-rAL\\values-sq-rAL.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 718,
+                        "endColumn": 138,
+                        "endOffset": 852
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 857,
+                    "endColumn": 136,
+                    "endOffset": 989
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-sq-rAL\\values-sq-rAL.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 857,
+                        "endColumn": 136,
+                        "endOffset": 989
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 994,
+                    "endColumn": 233,
+                    "endOffset": 1223
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-sq-rAL\\values-sq-rAL.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 994,
+                        "endColumn": 233,
+                        "endOffset": 1223
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 1228,
+                    "endColumn": 232,
+                    "endOffset": 1456
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-sq-rAL\\values-sq-rAL.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 1228,
+                        "endColumn": 232,
+                        "endOffset": 1456
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 1461,
+                    "endColumn": 135,
+                    "endOffset": 1592
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-sq-rAL\\values-sq-rAL.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 1461,
+                        "endColumn": 135,
+                        "endOffset": 1592
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 1597,
+                    "endColumn": 186,
+                    "endOffset": 1779
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-sq-rAL\\values-sq-rAL.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 1597,
+                        "endColumn": 186,
+                        "endOffset": 1779
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1784,
+                    "endColumn": 125,
+                    "endOffset": 1905
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-sq-rAL\\values-sq-rAL.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1784,
+                        "endColumn": 125,
+                        "endOffset": 1905
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1910,
+                    "endColumn": 186,
+                    "endOffset": 2092
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-sq-rAL\\values-sq-rAL.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1910,
+                        "endColumn": 186,
+                        "endOffset": 2092
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 2097,
+                    "endColumn": 118,
+                    "endOffset": 2211
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-sq-rAL\\values-sq-rAL.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 2097,
+                        "endColumn": 118,
+                        "endOffset": 2211
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 2216,
+                    "endColumn": 145,
+                    "endOffset": 2357
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-sq-rAL\\values-sq-rAL.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 2216,
+                        "endColumn": 145,
+                        "endOffset": 2357
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 2362,
+                    "endColumn": 166,
+                    "endOffset": 2524
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-sq-rAL\\values-sq-rAL.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 2362,
+                        "endColumn": 166,
+                        "endOffset": 2524
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 2529,
+                    "endColumn": 128,
+                    "endOffset": 2653
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-sq-rAL\\values-sq-rAL.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 2529,
+                        "endColumn": 128,
+                        "endOffset": 2653
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 2658,
+                    "endColumn": 184,
+                    "endOffset": 2838
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-sq-rAL\\values-sq-rAL.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 2658,
+                        "endColumn": 184,
+                        "endOffset": 2838
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 2843,
+                    "endColumn": 127,
+                    "endOffset": 2966
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-sq-rAL\\values-sq-rAL.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 2843,
+                        "endColumn": 127,
+                        "endOffset": 2966
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 2971,
+                    "endColumn": 259,
+                    "endOffset": 3226
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-sq-rAL\\values-sq-rAL.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 2971,
+                        "endColumn": 259,
+                        "endOffset": 3226
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 3231,
+                    "endColumn": 133,
+                    "endOffset": 3360
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-sq-rAL\\values-sq-rAL.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 3231,
+                        "endColumn": 133,
+                        "endOffset": 3360
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 3365,
+                    "endColumn": 109,
+                    "endOffset": 3470
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-sq-rAL\\values-sq-rAL.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 3365,
+                        "endColumn": 109,
+                        "endOffset": 3470
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 3475,
+                    "endColumn": 205,
+                    "endOffset": 3676
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-sq-rAL\\values-sq-rAL.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 3475,
+                        "endColumn": 205,
+                        "endOffset": 3676
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 3681,
+                    "endColumn": 139,
+                    "endOffset": 3816
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-sq-rAL\\values-sq-rAL.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 3681,
+                        "endColumn": 139,
+                        "endOffset": 3816
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 3821,
+                    "endColumn": 227,
+                    "endOffset": 4044
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-sq-rAL\\values-sq-rAL.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 3821,
+                        "endColumn": 227,
+                        "endOffset": 4044
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 4049,
+                    "endColumn": 147,
+                    "endOffset": 4192
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-sq-rAL\\values-sq-rAL.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 4049,
+                        "endColumn": 147,
+                        "endOffset": 4192
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 4197,
+                    "endColumn": 213,
+                    "endOffset": 4406
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-sq-rAL\\values-sq-rAL.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 4197,
+                        "endColumn": 213,
+                        "endOffset": 4406
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 4411,
+                    "endColumn": 93,
+                    "endOffset": 4500
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-sq-rAL\\values-sq-rAL.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 4411,
+                        "endColumn": 93,
+                        "endOffset": 4500
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 4505,
+                    "endColumn": 96,
+                    "endOffset": 4597
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-sq-rAL\\values-sq-rAL.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 4505,
+                        "endColumn": 96,
+                        "endOffset": 4597
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 4602,
+                    "endColumn": 111,
+                    "endOffset": 4709
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-sq-rAL\\values-sq-rAL.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 4602,
+                        "endColumn": 111,
+                        "endOffset": 4709
+                    }
+                }
+            }
+        ]
+    }
+]

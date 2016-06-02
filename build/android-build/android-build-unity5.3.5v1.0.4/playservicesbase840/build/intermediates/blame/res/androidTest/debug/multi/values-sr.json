@@ -1,0 +1,539 @@
+[
+    {
+        "outputFile": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\res\\merged\\androidTest\\debug\\values-sr\\values-sr.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 263,
+                    "endOffset": 364
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-sr\\values-sr.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 105,
+                        "endColumn": 263,
+                        "endOffset": 364
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 369,
+                    "endColumn": 126,
+                    "endOffset": 491
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-sr\\values-sr.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 369,
+                        "endColumn": 126,
+                        "endOffset": 491
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 496,
+                    "endColumn": 187,
+                    "endOffset": 679
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-sr\\values-sr.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 496,
+                        "endColumn": 187,
+                        "endOffset": 679
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 684,
+                    "endColumn": 127,
+                    "endOffset": 807
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-sr\\values-sr.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 684,
+                        "endColumn": 127,
+                        "endOffset": 807
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 812,
+                    "endColumn": 127,
+                    "endOffset": 935
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-sr\\values-sr.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 812,
+                        "endColumn": 127,
+                        "endOffset": 935
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 940,
+                    "endColumn": 219,
+                    "endOffset": 1155
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-sr\\values-sr.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 940,
+                        "endColumn": 219,
+                        "endOffset": 1155
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 1160,
+                    "endColumn": 219,
+                    "endOffset": 1375
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-sr\\values-sr.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 1160,
+                        "endColumn": 219,
+                        "endOffset": 1375
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 1380,
+                    "endColumn": 128,
+                    "endOffset": 1504
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-sr\\values-sr.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 1380,
+                        "endColumn": 128,
+                        "endOffset": 1504
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 1509,
+                    "endColumn": 177,
+                    "endOffset": 1682
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-sr\\values-sr.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 1509,
+                        "endColumn": 177,
+                        "endOffset": 1682
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1687,
+                    "endColumn": 119,
+                    "endOffset": 1802
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-sr\\values-sr.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1687,
+                        "endColumn": 119,
+                        "endOffset": 1802
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1807,
+                    "endColumn": 179,
+                    "endOffset": 1982
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-sr\\values-sr.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1807,
+                        "endColumn": 179,
+                        "endOffset": 1982
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1987,
+                    "endColumn": 121,
+                    "endOffset": 2104
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-sr\\values-sr.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1987,
+                        "endColumn": 121,
+                        "endOffset": 2104
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 2109,
+                    "endColumn": 131,
+                    "endOffset": 2236
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-sr\\values-sr.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 2109,
+                        "endColumn": 131,
+                        "endOffset": 2236
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 2241,
+                    "endColumn": 167,
+                    "endOffset": 2404
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-sr\\values-sr.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 2241,
+                        "endColumn": 167,
+                        "endOffset": 2404
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 2409,
+                    "endColumn": 128,
+                    "endOffset": 2533
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-sr\\values-sr.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 2409,
+                        "endColumn": 128,
+                        "endOffset": 2533
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 2538,
+                    "endColumn": 181,
+                    "endOffset": 2715
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-sr\\values-sr.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 2538,
+                        "endColumn": 181,
+                        "endOffset": 2715
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 2720,
+                    "endColumn": 131,
+                    "endOffset": 2847
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-sr\\values-sr.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 2720,
+                        "endColumn": 131,
+                        "endOffset": 2847
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 2852,
+                    "endColumn": 238,
+                    "endOffset": 3086
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-sr\\values-sr.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 2852,
+                        "endColumn": 238,
+                        "endOffset": 3086
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 3091,
+                    "endColumn": 121,
+                    "endOffset": 3208
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-sr\\values-sr.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 3091,
+                        "endColumn": 121,
+                        "endOffset": 3208
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 3213,
+                    "endColumn": 108,
+                    "endOffset": 3317
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-sr\\values-sr.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 3213,
+                        "endColumn": 108,
+                        "endOffset": 3317
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 3322,
+                    "endColumn": 190,
+                    "endOffset": 3508
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-sr\\values-sr.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 3322,
+                        "endColumn": 190,
+                        "endOffset": 3508
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 3513,
+                    "endColumn": 128,
+                    "endOffset": 3637
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-sr\\values-sr.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 3513,
+                        "endColumn": 128,
+                        "endOffset": 3637
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 3642,
+                    "endColumn": 207,
+                    "endOffset": 3845
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-sr\\values-sr.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 3642,
+                        "endColumn": 207,
+                        "endOffset": 3845
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 3850,
+                    "endColumn": 132,
+                    "endOffset": 3978
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-sr\\values-sr.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 3850,
+                        "endColumn": 132,
+                        "endOffset": 3978
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 3983,
+                    "endColumn": 171,
+                    "endOffset": 4150
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-sr\\values-sr.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 3983,
+                        "endColumn": 171,
+                        "endOffset": 4150
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 4155,
+                    "endColumn": 96,
+                    "endOffset": 4247
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-sr\\values-sr.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 4155,
+                        "endColumn": 96,
+                        "endOffset": 4247
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 4252,
+                    "endColumn": 94,
+                    "endOffset": 4342
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-sr\\values-sr.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 4252,
+                        "endColumn": 94,
+                        "endOffset": 4342
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 4347,
+                    "endColumn": 109,
+                    "endOffset": 4452
+                },
+                "from": {
+                    "file": "F:\\work space\\build-unity5.3.5v1.0.4\\playservicesbase840\\build\\intermediates\\bundles\\debug\\res\\values-sr\\values-sr.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 4347,
+                        "endColumn": 109,
+                        "endOffset": 4452
+                    }
+                }
+            }
+        ]
+    }
+]

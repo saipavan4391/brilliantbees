@@ -1,0 +1,18 @@
+# view AndroidManifest.xml #generated:66
+-keep class com.google.android.gms.ads.AdActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:79
+-keep class com.google.games.bridge.NativeBridgeActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:75
+-keep class com.unity.purchasing.googleplay.PurchaseActivity { <init>(...); }
+
+# view res/layout/unityads_view_video_play.xml #generated:10
+-keep class com.unity3d.ads.android.video.UnityAdsVideoView { <init>(...); }
+
+# view AndroidManifest.xml #generated:94
+-keep class com.unity3d.ads.android.view.UnityAdsFullscreenActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:44
+-keep class com.vgsz.brilliantbees.UnityPlayerActivity { <init>(...); }
+

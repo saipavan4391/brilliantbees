@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\work space\\brilliantBees\\build\\intermediates\\res\\merged\\release\\layout\\unityads_button_audio_toggle.xml",
+        "source": "F:\\work space\\brilliantBees\\build\\intermediates\\exploded-aar\\work space\\unity-ads\\unspecified\\res\\layout\\unityads_button_audio_toggle.xml"
+    },
+    {
+        "merged": "F:\\work space\\brilliantBees\\build\\intermediates\\res\\merged\\release\\layout\\unityads_view_video_paused.xml",
+        "source": "F:\\work space\\brilliantBees\\build\\intermediates\\exploded-aar\\work space\\unity-ads\\unspecified\\res\\layout\\unityads_view_video_paused.xml"
+    },
+    {
+        "merged": "F:\\work space\\brilliantBees\\build\\intermediates\\res\\merged\\release\\layout\\unityads_button_pause.xml",
+        "source": "F:\\work space\\brilliantBees\\build\\intermediates\\exploded-aar\\work space\\unity-ads\\unspecified\\res\\layout\\unityads_button_pause.xml"
+    },
+    {
+        "merged": "F:\\work space\\brilliantBees\\build\\intermediates\\res\\merged\\release\\layout\\unityads_view_video_play.xml",
+        "source": "F:\\work space\\brilliantBees\\build\\intermediates\\exploded-aar\\work space\\unity-ads\\unspecified\\res\\layout\\unityads_view_video_play.xml"
+    }
+]

@@ -1,0 +1,246 @@
+fileFormatVersion: 2
+guid: fa9e8d142c4404843a86b3f2c496fd35
+timeCreated: 1463301801
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: sprite sheet (bambee crying)_0
+    21300002: sprite sheet (bambee crying)_1
+    21300004: sprite sheet (bambee crying)_2
+    21300006: sprite sheet (bambee crying)_3
+    21300008: sprite sheet (bambee crying)_4
+    21300010: sprite sheet (bambee crying)_5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: sprite sheet (bambee crying)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 610
+        width: 454
+        height: 526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 117.5, y: 96.6655}
+        - {x: 95.5, y: 112.6655}
+        - {x: 58.5, y: 111.6655}
+        - {x: 49.5, y: 108.6655}
+        - {x: 51.5, y: 113.6655}
+        - {x: 63.5, y: 111.6655}
+        - {x: 69.5, y: 115.6655}
+        - {x: 78.5, y: 131.6655}
+        - {x: 71.5, y: 136.6655}
+        - {x: -94.5, y: 136.6655}
+        - {x: -103.5, y: 134.6655}
+        - {x: -117.5, y: 113.6655}
+        - {x: -117.5, y: 15.665497}
+        - {x: -81.5, y: -133.3345}
+        - {x: -73.5, y: -135.3345}
+        - {x: 73.5, y: -135.3345}
+        - {x: 81.5, y: -112.3345}
+        - {x: 81.5, y: -101.3345}
+        - {x: 117.5, y: -44.334503}
+    - name: sprite sheet (bambee crying)_1
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 610
+        width: 454
+        height: 526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 97.88379, y: 136.6655}
+        - {x: 77.88379, y: 114.6655}
+        - {x: 52.88379, y: 110.6655}
+        - {x: 71.88379, y: 114.6655}
+        - {x: 72.88379, y: 128.6655}
+        - {x: 64.88379, y: 134.6655}
+        - {x: 60.88379, y: 136.6655}
+        - {x: -79.11621, y: 136.6655}
+        - {x: -92.11621, y: 132.6655}
+        - {x: -88.11621, y: 115.6655}
+        - {x: -69.11621, y: 108.6655}
+        - {x: -61.11621, y: 118.6655}
+        - {x: -56.11621, y: 99.6655}
+        - {x: -94.11621, y: 98.6655}
+        - {x: -117.11621, y: 74.6655}
+        - {x: -117.11621, y: 27.665497}
+        - {x: -58.11621, y: -121.3345}
+        - {x: -13.116211, y: -135.3345}
+        - {x: 81.88379, y: -135.3345}
+        - {x: 118.88379, y: -101.3345}
+        - {x: 118.88379, y: 132.6655}
+        - {x: 117.88379, y: 136.6655}
+    - name: sprite sheet (bambee crying)_2
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 610
+        width: 454
+        height: 526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 92.26758, y: 110.6655}
+        - {x: 65.26758, y: 112.6655}
+        - {x: 53.26758, y: 109.6655}
+        - {x: 41.26758, y: 102.6655}
+        - {x: 32.26758, y: 113.6655}
+        - {x: 56.26758, y: 110.6655}
+        - {x: 72.26758, y: 114.6655}
+        - {x: 79.26758, y: 130.6655}
+        - {x: 65.26758, y: 136.6655}
+        - {x: -85.73242, y: 136.6655}
+        - {x: -87.73242, y: 115.6655}
+        - {x: -68.73242, y: 108.6655}
+        - {x: -60.73242, y: 118.6655}
+        - {x: -56.73242, y: 98.6655}
+        - {x: -103.73242, y: 108.6655}
+        - {x: -116.73242, y: 83.6655}
+        - {x: -116.73242, y: -33.334503}
+        - {x: -73.73242, y: -128.3345}
+        - {x: -49.73242, y: -135.3345}
+        - {x: 94.26758, y: -135.3345}
+        - {x: 118.26758, y: -59.334503}
+        - {x: 118.26758, y: 98.6655}
+        - {x: 117.26758, y: 100.6655}
+    - name: sprite sheet (bambee crying)_3
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 2
+        width: 454
+        height: 526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 79.1655, y: 111.03169}
+        - {x: 58.165497, y: 110.03169}
+        - {x: 64.1655, y: 110.03169}
+        - {x: 71.1655, y: 116.03169}
+        - {x: 79.1655, y: 131.0317}
+        - {x: 73.1655, y: 136.0317}
+        - {x: -104.8345, y: 136.0317}
+        - {x: -86.8345, y: 114.03169}
+        - {x: -116.8345, y: 103.03169}
+        - {x: -116.8345, y: -14.9683075}
+        - {x: -97.8345, y: -111.96831}
+        - {x: -38.834503, y: -135.9683}
+        - {x: 81.1655, y: -135.9683}
+        - {x: 99.1655, y: -126.96831}
+        - {x: 118.1655, y: -38.968307}
+        - {x: 118.1655, y: 90.03169}
+        - {x: 109.1655, y: 115.03169}
+    - name: sprite sheet (bambee crying)_4
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 0
+        width: 454
+        height: 526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 47.700684, y: 108}
+        - {x: 66.70068, y: 112}
+        - {x: 71.70068, y: 118}
+        - {x: 73.70068, y: 128}
+        - {x: 66.70068, y: 136}
+        - {x: -81.29932, y: 136}
+        - {x: -91.29932, y: 118}
+        - {x: -87.29932, y: 96}
+        - {x: -77.29932, y: 105}
+        - {x: -112.29932, y: 92}
+        - {x: -117.29932, y: 78}
+        - {x: -117.29932, y: 2}
+        - {x: -67.29932, y: -129}
+        - {x: -51.299316, y: -136}
+        - {x: 78.70068, y: -136}
+        - {x: 117.70068, y: -112}
+        - {x: 117.70068, y: 134}
+        - {x: 78.70068, y: 113}
+    - name: sprite sheet (bambee crying)_5
+      rect:
+        serializedVersion: 2
+        x: 1531
+        y: 2
+        width: 454
+        height: 526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 79.25879, y: 111.03169}
+        - {x: 63.25879, y: 110.03169}
+        - {x: 58.25879, y: 109.03169}
+        - {x: 64.25879, y: 110.03169}
+        - {x: 72.25879, y: 116.03169}
+        - {x: 73.25879, y: 128.0317}
+        - {x: 70.25879, y: 136.0317}
+        - {x: -106.74121, y: 136.0317}
+        - {x: -116.74121, y: 107.03169}
+        - {x: -116.74121, y: -23.968307}
+        - {x: -82.74121, y: -100.96831}
+        - {x: -15.741211, y: -127.96831}
+        - {x: 4.258789, y: -135.9683}
+        - {x: 61.25879, y: -135.9683}
+        - {x: 98.25879, y: -118.96831}
+        - {x: 118.25879, y: -77.96831}
+        - {x: 118.25879, y: 94.03169}
+        - {x: 111.25879, y: 122.03169}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

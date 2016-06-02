@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/brilliantBees/brilliantBees.iml" filepath="$PROJECT_DIR$/brilliantBees/brilliantBees.iml" />
+      <module fileurl="file://$PROJECT_DIR$/googleMobileAdsPlugin/googleMobileAdsPlugin.iml" filepath="$PROJECT_DIR$/googleMobileAdsPlugin/googleMobileAdsPlugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mainLibProj/mainLibProj.iml" filepath="$PROJECT_DIR$/mainLibProj/mainLibProj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/unity-ads/unity-ads.iml" filepath="$PROJECT_DIR$/unity-ads/unity-ads.iml" />
+      <module fileurl="file://$PROJECT_DIR$/work space.iml" filepath="$PROJECT_DIR$/work space.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "F:\\work space\\build-unity5.3.4v1.0.4\\brilliantBees\\build\\intermediates\\res\\merged\\release\\drawable\\app_icon.png",
+        "source": "F:\\work space\\build-unity5.3.4v1.0.4\\brilliantBees\\src\\main\\res\\drawable\\app_icon.png"
+    },
+    {
+        "merged": "F:\\work space\\build-unity5.3.4v1.0.4\\brilliantBees\\build\\intermediates\\res\\merged\\release\\drawable\\unityads_icon_speaker_triangle.xml",
+        "source": "F:\\work space\\build-unity5.3.4v1.0.4\\brilliantBees\\build\\intermediates\\exploded-aar\\build-unity5.3.4v1.0.4\\unity-ads\\unspecified\\res\\drawable\\unityads_icon_speaker_triangle.xml"
+    },
+    {
+        "merged": "F:\\work space\\build-unity5.3.4v1.0.4\\brilliantBees\\build\\intermediates\\res\\merged\\release\\drawable\\unityads_background_button_pause.xml",
+        "source": "F:\\work space\\build-unity5.3.4v1.0.4\\brilliantBees\\build\\intermediates\\exploded-aar\\build-unity5.3.4v1.0.4\\unity-ads\\unspecified\\res\\drawable\\unityads_background_button_pause.xml"
+    },
+    {
+        "merged": "F:\\work space\\build-unity5.3.4v1.0.4\\brilliantBees\\build\\intermediates\\res\\merged\\release\\drawable\\unityads_icon_speaker_waves.xml",
+        "source": "F:\\work space\\build-unity5.3.4v1.0.4\\brilliantBees\\build\\intermediates\\exploded-aar\\build-unity5.3.4v1.0.4\\unity-ads\\unspecified\\res\\drawable\\unityads_icon_speaker_waves.xml"
+    },
+    {
+        "merged": "F:\\work space\\build-unity5.3.4v1.0.4\\brilliantBees\\build\\intermediates\\res\\merged\\release\\drawable\\unityads_icon_play.xml",
+        "source": "F:\\work space\\build-unity5.3.4v1.0.4\\brilliantBees\\build\\intermediates\\exploded-aar\\build-unity5.3.4v1.0.4\\unity-ads\\unspecified\\res\\drawable\\unityads_icon_play.xml"
+    },
+    {
+        "merged": "F:\\work space\\build-unity5.3.4v1.0.4\\brilliantBees\\build\\intermediates\\res\\merged\\release\\drawable\\unityads_icon_speaker_base.xml",
+        "source": "F:\\work space\\build-unity5.3.4v1.0.4\\brilliantBees\\build\\intermediates\\exploded-aar\\build-unity5.3.4v1.0.4\\unity-ads\\unspecified\\res\\drawable\\unityads_icon_speaker_base.xml"
+    }
+]

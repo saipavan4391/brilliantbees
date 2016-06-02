@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/amazonAppStore/amazonAppStore.iml" filepath="$PROJECT_DIR$/amazonAppStore/amazonAppStore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/brilliantBees/brilliantBees.iml" filepath="$PROJECT_DIR$/brilliantBees/brilliantBees.iml" />
+      <module fileurl="file://$PROJECT_DIR$/build-unity5.3.5v1.0.4.iml" filepath="$PROJECT_DIR$/build-unity5.3.5v1.0.4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/googleAIDL/googleAIDL.iml" filepath="$PROJECT_DIR$/googleAIDL/googleAIDL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/googleMobileAdsPlugin/googleMobileAdsPlugin.iml" filepath="$PROJECT_DIR$/googleMobileAdsPlugin/googleMobileAdsPlugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/googlePlay/googlePlay.iml" filepath="$PROJECT_DIR$/googlePlay/googlePlay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mainLibProj/mainLibProj.iml" filepath="$PROJECT_DIR$/mainLibProj/mainLibProj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/playservicesads840/playservicesads840.iml" filepath="$PROJECT_DIR$/playservicesads840/playservicesads840.iml" />
+      <module fileurl="file://$PROJECT_DIR$/playservicesbase840/playservicesbase840.iml" filepath="$PROJECT_DIR$/playservicesbase840/playservicesbase840.iml" />
+      <module fileurl="file://$PROJECT_DIR$/playservicesdrive840/playservicesdrive840.iml" filepath="$PROJECT_DIR$/playservicesdrive840/playservicesdrive840.iml" />
+      <module fileurl="file://$PROJECT_DIR$/playservicesgames840/playservicesgames840.iml" filepath="$PROJECT_DIR$/playservicesgames840/playservicesgames840.iml" />
+      <module fileurl="file://$PROJECT_DIR$/playservicesnearby840/playservicesnearby840.iml" filepath="$PROJECT_DIR$/playservicesnearby840/playservicesnearby840.iml" />
+      <module fileurl="file://$PROJECT_DIR$/playservicesplus840/playservicesplus840.iml" filepath="$PROJECT_DIR$/playservicesplus840/playservicesplus840.iml" />
+      <module fileurl="file://$PROJECT_DIR$/supportv42311/supportv42311.iml" filepath="$PROJECT_DIR$/supportv42311/supportv42311.iml" />
+      <module fileurl="file://$PROJECT_DIR$/unity-ads/unity-ads.iml" filepath="$PROJECT_DIR$/unity-ads/unity-ads.iml" />
+    </modules>
+  </component>
+</project>

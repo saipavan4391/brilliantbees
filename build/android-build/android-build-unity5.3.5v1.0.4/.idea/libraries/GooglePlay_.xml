@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="GooglePlay-">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/brilliantBees/build/intermediates/exploded-aar/GooglePlay/res" />
+      <root url="jar://$PROJECT_DIR$/brilliantBees/build/intermediates/exploded-aar/GooglePlay/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

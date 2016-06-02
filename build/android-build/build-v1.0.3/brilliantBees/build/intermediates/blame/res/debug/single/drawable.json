@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "F:\\work space\\brilliantBees\\build\\intermediates\\res\\merged\\debug\\drawable\\unityads_icon_speaker_base.xml",
+        "source": "F:\\work space\\brilliantBees\\build\\intermediates\\exploded-aar\\work space\\unity-ads\\unspecified\\res\\drawable\\unityads_icon_speaker_base.xml"
+    },
+    {
+        "merged": "F:\\work space\\brilliantBees\\build\\intermediates\\res\\merged\\debug\\drawable\\app_icon.png",
+        "source": "F:\\work space\\brilliantBees\\src\\main\\res\\drawable\\app_icon.png"
+    },
+    {
+        "merged": "F:\\work space\\brilliantBees\\build\\intermediates\\res\\merged\\debug\\drawable\\unityads_icon_speaker_waves.xml",
+        "source": "F:\\work space\\brilliantBees\\build\\intermediates\\exploded-aar\\work space\\unity-ads\\unspecified\\res\\drawable\\unityads_icon_speaker_waves.xml"
+    },
+    {
+        "merged": "F:\\work space\\brilliantBees\\build\\intermediates\\res\\merged\\debug\\drawable\\unityads_icon_speaker_triangle.xml",
+        "source": "F:\\work space\\brilliantBees\\build\\intermediates\\exploded-aar\\work space\\unity-ads\\unspecified\\res\\drawable\\unityads_icon_speaker_triangle.xml"
+    },
+    {
+        "merged": "F:\\work space\\brilliantBees\\build\\intermediates\\res\\merged\\debug\\drawable\\unityads_background_button_pause.xml",
+        "source": "F:\\work space\\brilliantBees\\build\\intermediates\\exploded-aar\\work space\\unity-ads\\unspecified\\res\\drawable\\unityads_background_button_pause.xml"
+    },
+    {
+        "merged": "F:\\work space\\brilliantBees\\build\\intermediates\\res\\merged\\debug\\drawable\\unityads_icon_play.xml",
+        "source": "F:\\work space\\brilliantBees\\build\\intermediates\\exploded-aar\\work space\\unity-ads\\unspecified\\res\\drawable\\unityads_icon_play.xml"
+    }
+]

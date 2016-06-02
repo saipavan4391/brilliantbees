@@ -1,0 +1,364 @@
+fileFormatVersion: 2
+guid: e46e549a12c0bce47805003e61687301
+timeCreated: 1463046973
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: bambee with legs_0
+    21300002: bambee with legs_1
+    21300004: bambee with legs_2
+    21300006: bambee with legs_3
+    21300008: bambee with legs_4
+    21300010: bambee with legs_5
+    21300012: bambee with legs_6
+    21300014: bambee with legs_7
+    21300016: bambee with legs_8
+    21300018: bambee with legs_9
+    21300020: bambee with legs_10
+    21300022: bambee with legs_11
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: bambee with legs_0
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1123
+        width: 452
+        height: 489
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 42.657898, y: 67.77371}
+        - {x: 33.657898, y: 66.77371}
+        - {x: 40.657898, y: 67.77371}
+        - {x: 44.657898, y: 71.77371}
+        - {x: 46.657898, y: 78.77371}
+        - {x: 43.657898, y: 82.77371}
+        - {x: -47.342102, y: 82.77371}
+        - {x: -50.342102, y: 81.77371}
+        - {x: -57.342102, y: 77.77371}
+        - {x: -76.3421, y: 57.773712}
+        - {x: -76.3421, y: -3.2262878}
+        - {x: -52.342102, y: -68.22629}
+        - {x: -19.342102, y: -82.22629}
+        - {x: 75.6579, y: -82.22629}
+        - {x: 76.6579, y: -79.22629}
+        - {x: 76.6579, y: 66.77371}
+        - {x: 54.657898, y: 72.77371}
+    - name: bambee with legs_1
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 1126
+        width: 474
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75.78421, y: 82.28424}
+        - {x: -79.78421, y: 72.28424}
+        - {x: -79.78421, y: -34.71576}
+        - {x: -28.78421, y: -81.71576}
+        - {x: 58.21579, y: -81.71576}
+        - {x: 66.21579, y: -71.71576}
+        - {x: 81.21579, y: -18.71576}
+        - {x: 81.21579, y: 58.28424}
+        - {x: 48.21579, y: 82.28424}
+    - name: bambee with legs_2
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 1117
+        width: 503
+        height: 495
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 50.263184, y: -83.247345}
+        - {x: 72.26318, y: -58.247345}
+        - {x: 85.26318, y: -3.247345}
+        - {x: 85.26318, y: 60.752655}
+        - {x: 62.263184, y: 83.752655}
+        - {x: -70.73682, y: 83.752655}
+        - {x: -84.73682, y: 54.752655}
+        - {x: -84.73682, y: -20.247345}
+        - {x: -29.736816, y: -59.247345}
+        - {x: -15.736816, y: -62.247345}
+        - {x: -6.7368164, y: -83.247345}
+        - {x: 13.263184, y: -83.247345}
+        - {x: 15.263184, y: -82.247345}
+        - {x: 21.263184, y: -78.247345}
+        - {x: 27.263184, y: -83.247345}
+    - name: bambee with legs_3
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 1123
+        width: 451
+        height: 489
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 38.28949, y: 67.77371}
+        - {x: 40.28949, y: 67.77371}
+        - {x: 44.28949, y: 71.77371}
+        - {x: 45.28949, y: 77.77371}
+        - {x: 38.28949, y: 82.77371}
+        - {x: -58.71051, y: 82.77371}
+        - {x: -75.71051, y: 66.77371}
+        - {x: -75.71051, y: -12.226288}
+        - {x: -62.71051, y: -66.22629}
+        - {x: -25.71051, y: -82.22629}
+        - {x: 48.28949, y: -82.22629}
+        - {x: 77.28949, y: -56.226288}
+        - {x: 77.28949, y: 67.77371}
+        - {x: 49.28949, y: 68.77371}
+    - name: bambee with legs_4
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 579
+        width: 474
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 71.13684, y: -50.968414}
+        - {x: 80.13684, y: 4.0315857}
+        - {x: 80.13684, y: 48.031586}
+        - {x: 73.13684, y: 57.031586}
+        - {x: 43.13684, y: 64.031586}
+        - {x: 61.13684, y: 82.031586}
+        - {x: -67.86316, y: 82.031586}
+        - {x: -79.86316, y: 72.031586}
+        - {x: -79.86316, y: -7.9684143}
+        - {x: -55.86316, y: -56.968414}
+        - {x: -19.86316, y: -81.968414}
+        - {x: 50.13684, y: -81.968414}
+        - {x: 55.13684, y: -77.968414}
+        - {x: 53.13684, y: -61.968414}
+        - {x: 49.13684, y: -58.968414}
+        - {x: 46.13684, y: -57.968414}
+    - name: bambee with legs_5
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 587
+        width: 503
+        height: 495
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 86.13159, y: 41.72632}
+        - {x: 45.13159, y: 84.72632}
+        - {x: -73.86841, y: 84.72632}
+        - {x: -84.86841, y: 64.72632}
+        - {x: -84.86841, y: -32.27368}
+        - {x: -35.86841, y: -81.27368}
+        - {x: -22.868408, y: -83.27368}
+        - {x: 45.13159, y: -83.27368}
+        - {x: 77.13159, y: -62.27368}
+        - {x: 86.13159, y: -16.273682}
+    - name: bambee with legs_6
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 578
+        width: 451
+        height: 490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 72.86847, y: -66.30525}
+        - {x: 76.86847, y: -49.305252}
+        - {x: 76.86847, y: 61.694748}
+        - {x: 51.86847, y: 68.69475}
+        - {x: 38.86847, y: 67.69475}
+        - {x: 30.86847, y: 64.69475}
+        - {x: 34.86847, y: 67.69475}
+        - {x: 38.86847, y: 67.69475}
+        - {x: 41.86847, y: 68.69475}
+        - {x: 45.86847, y: 71.69475}
+        - {x: 43.86847, y: 83.69475}
+        - {x: -76.13153, y: 83.69475}
+        - {x: -76.13153, y: -21.305252}
+        - {x: -59.13153, y: -47.305252}
+        - {x: -14.131531, y: -78.30525}
+        - {x: 9.868469, y: -82.30525}
+        - {x: 33.86847, y: -82.30525}
+        - {x: 41.86847, y: -75.30525}
+        - {x: 44.86847, y: -69.30525}
+        - {x: 44.86847, y: -65.30525}
+    - name: bambee with legs_7
+      rect:
+        serializedVersion: 2
+        x: 2425
+        y: 580
+        width: 473
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 45.342163, y: 82.86842}
+        - {x: -63.657837, y: 82.86842}
+        - {x: -79.65784, y: 59.868423}
+        - {x: -79.65784, y: -18.131577}
+        - {x: -57.657837, y: -75.13158}
+        - {x: -32.657837, y: -82.13158}
+        - {x: 63.342163, y: -82.13158}
+        - {x: 75.34216, y: -39.131577}
+        - {x: 81.34216, y: 0.86842346}
+        - {x: 81.34216, y: 46.868423}
+    - name: bambee with legs_8
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 36
+        width: 503
+        height: 496
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.8421, y: 84.12631}
+        - {x: -84.8421, y: 64.12631}
+        - {x: -84.8421, y: -51.873688}
+        - {x: -28.842102, y: -83.87369}
+        - {x: 63.157898, y: -83.87369}
+        - {x: 85.1579, y: -62.873688}
+        - {x: 85.1579, y: 71.12631}
+        - {x: 60.157898, y: 84.12631}
+    - name: bambee with legs_9
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 42
+        width: 452
+        height: 490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 38.163177, y: 67.14737}
+        - {x: 43.163177, y: 67.14737}
+        - {x: 46.163177, y: 69.14737}
+        - {x: 48.163177, y: 77.14737}
+        - {x: 47.163177, y: 83.14737}
+        - {x: -60.836823, y: 83.14737}
+        - {x: -75.83682, y: 79.14737}
+        - {x: -75.83682, y: -5.8526306}
+        - {x: -52.836823, y: -49.85263}
+        - {x: -36.836823, y: -62.85263}
+        - {x: -10.8368225, y: -81.85263}
+        - {x: -8.8368225, y: -82.85263}
+        - {x: 57.163177, y: -82.85263}
+        - {x: 77.16318, y: -56.85263}
+        - {x: 77.16318, y: 55.14737}
+        - {x: 72.16318, y: 69.14737}
+    - name: bambee with legs_10
+      rect:
+        serializedVersion: 2
+        x: 1775
+        y: 47
+        width: 473
+        height: 485
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 61.394775, y: 83.33158}
+        - {x: -50.605225, y: 83.33158}
+        - {x: -56.605225, y: 78.33158}
+        - {x: -50.605225, y: 60.33158}
+        - {x: -62.605225, y: 51.33158}
+        - {x: -79.605225, y: 34.33158}
+        - {x: -79.605225, y: 6.331581}
+        - {x: -77.605225, y: -0.6684189}
+        - {x: -51.605225, y: -49.66842}
+        - {x: -17.605225, y: -81.66842}
+        - {x: 59.394775, y: -81.66842}
+        - {x: 71.394775, y: -72.66842}
+        - {x: 81.394775, y: -25.668419}
+        - {x: 81.394775, y: 61.33158}
+    - name: bambee with legs_11
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 36
+        width: 504
+        height: 496
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47.894714, y: 84.12631}
+        - {x: -53.894714, y: 79.12631}
+        - {x: -52.894714, y: 70.12631}
+        - {x: -48.894714, y: 64.12631}
+        - {x: -73.894714, y: 41.126312}
+        - {x: -84.894714, y: 30.126312}
+        - {x: -84.894714, y: 1.1263123}
+        - {x: -83.894714, y: -3.8736877}
+        - {x: -71.894714, y: -13.873688}
+        - {x: -21.894714, y: -83.87369}
+        - {x: 61.105286, y: -83.87369}
+        - {x: 85.105286, y: -31.873688}
+        - {x: 85.105286, y: 64.12631}
+        - {x: 63.105286, y: 84.12631}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

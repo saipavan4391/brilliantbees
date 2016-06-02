@@ -1,0 +1,10 @@
+lastUpgrade=00932
+proj.pluginVersion=0.9.32
+proj.AppId=84648298672
+and.BundleId=com.vgsz.brilliantbees
+proj.classDir=Assets
+proj.ConstantsClassName=GPGSIDs
+and.ResourceData=%3c%3fxml+version%3d%221.0%22+encoding%3d%22utf-8%22%3f%3e%0d%0a%3c%21--%0d%0aGoogle+Play+game+services+IDs.%0d%0aSave+this+file+as+res%2fvalues%2fgames-ids.xml+in+your+project.%0d%0a--%3e%0d%0a%3cresources%3e%0d%0a++%3cstring+name%3d%22app_id%22%3e84648298672%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22package_name%22%3ecom.vgsz.brilliantbees%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_swagatham%22%3eCgkIsJG6q7sCEAIQAg%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_unlock_bambee%22%3eCgkIsJG6q7sCEAIQAw%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_unlock_coalbee%22%3eCgkIsJG6q7sCEAIQBA%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_sipper%22%3eCgkIsJG6q7sCEAIQBQ%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_collector%22%3eCgkIsJG6q7sCEAIQBg%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_swiller%22%3eCgkIsJG6q7sCEAIQBw%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22leaderboard_distance_travelled%22%3eCgkIsJG6q7sCEAIQAQ%3c%2fstring%3e%0d%0a%3c%2fresources%3e%0d%0a
+and.ClientId=
+proj.requireGPlus=false
+android.SetupDone=true

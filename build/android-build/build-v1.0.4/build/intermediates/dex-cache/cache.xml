@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\work space\build-v1.0.4\brilliantBees\libs\google-play-services.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="bb934dbae57cc6cb9fa09aa0c049f6b500ba660c">
+        <dex dex="F:\work space\build-v1.0.4\brilliantBees\build\intermediates\pre-dexed\release\google-play-services_b581ed6a990d1e0e0a942b4fb4df299acb47a4ba.jar" />
+    </item>
+    <item
+        jar="F:\work space\build-v1.0.4\brilliantBees\build\intermediates\exploded-aar\GooglePlay\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="430ba7502ee7ea3798dbf22adb9afebe892999db">
+        <dex dex="F:\work space\build-v1.0.4\brilliantBees\build\intermediates\pre-dexed\release\intermediates-exploded-aar-GooglePlay_069ea1bcb2b5196f75429c98216c91bd4e353596.jar" />
+    </item>
+    <item
+        jar="F:\work space\build-v1.0.4\brilliantBees\build\intermediates\exploded-aar\build-v1.0.4\unity-ads\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="bcce3b69f37b8a09d80156aa05cdfcb917d17c9e">
+        <dex dex="F:\work space\build-v1.0.4\brilliantBees\build\intermediates\pre-dexed\release\build-v1.0.4-unity-ads-unspecified_d667816f57b48c563dfade0365751ef225751ba7.jar" />
+    </item>
+    <item
+        jar="F:\work space\build-v1.0.4\brilliantBees\libs\UnityAdsAdapter.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="75dcc583ae6c09c9791cf0585541eeb9d5a4e14a">
+        <dex dex="F:\work space\build-v1.0.4\brilliantBees\build\intermediates\pre-dexed\release\UnityAdsAdapter_2c53029de86a7fdb25ee207361f869e404a5a9c5.jar" />
+    </item>
+    <item
+        jar="F:\work space\build-v1.0.4\brilliantBees\build\intermediates\exploded-aar\GoogleAIDL\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="9577c082601c5c52c804e49bb9813121c930fac2">
+        <dex dex="F:\work space\build-v1.0.4\brilliantBees\build\intermediates\pre-dexed\release\intermediates-exploded-aar-GoogleAIDL_fa0dc8e46719176f7833c64823eb9c2e74c6ea7d.jar" />
+    </item>
+    <item
+        jar="F:\work space\build-v1.0.4\brilliantBees\build\intermediates\exploded-aar\common\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d602b5126b59ce5cf84b3aed9b3f7ecfe52a8cde">
+        <dex dex="F:\work space\build-v1.0.4\brilliantBees\build\intermediates\pre-dexed\release\intermediates-exploded-aar-common_7113018900953fd8b374fc515002b2b6fa646bc0.jar" />
+    </item>
+    <item
+        jar="F:\work space\build-v1.0.4\brilliantBees\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="F:\work space\build-v1.0.4\brilliantBees\build\intermediates\pre-dexed\release\internal_impl-23.4.0_3e309ed550415a0808082f3023c14159199b082a.jar" />
+    </item>
+    <item
+        jar="F:\work space\build-v1.0.4\brilliantBees\libs\unity-plugin-library.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="77c806f434b3b1d9c4c2d909916e2dbcb9d04e6d">
+        <dex dex="F:\work space\build-v1.0.4\brilliantBees\build\intermediates\pre-dexed\release\unity-plugin-library_57c60fe244f4a163b79c445e80df004633a0f918.jar" />
+    </item>
+    <item
+        jar="F:\android-related\adt-bundle-windows-x86_64-20140702\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="F:\work space\build-v1.0.4\brilliantBees\build\intermediates\pre-dexed\release\support-annotations-23.4.0_6fc7c6d3a3dcc59f5c8a8b7e6bf25daacfdafad2.jar" />
+    </item>
+    <item
+        jar="F:\work space\build-v1.0.4\brilliantBees\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="F:\work space\build-v1.0.4\brilliantBees\build\intermediates\pre-dexed\release\com.android.support-support-v4-23.4.0_7c17136f65a11bedce94e03e3cb2b87f33207482.jar" />
+    </item>
+    <item
+        jar="F:\work space\build-v1.0.4\brilliantBees\libs\unity-classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="5a8bfac25a7751087fc7cb6abe4fae2f5d608b0a">
+        <dex dex="F:\work space\build-v1.0.4\brilliantBees\build\intermediates\pre-dexed\release\unity-classes_a37328a0096e075ff417d4c5b288069b03751d01.jar" />
+    </item>
+    <item
+        jar="F:\work space\build-v1.0.4\brilliantBees\libs\play-games-plugin-support.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c1aa8e18d7a694591fcdd12da9ec2288e1215ebc">
+        <dex dex="F:\work space\build-v1.0.4\brilliantBees\build\intermediates\pre-dexed\release\play-games-plugin-support_e46481562b284465504d0082d4e3083540ae98a6.jar" />
+    </item>
+
+</items>

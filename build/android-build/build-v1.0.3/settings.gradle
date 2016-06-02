@@ -1,0 +1,3 @@
+include ':googleMobileAdsPlugin', ':unity-ads'
+include ':mainLibProj'
+include ':brilliantBees'

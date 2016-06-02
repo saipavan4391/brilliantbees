@@ -1,0 +1,313 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Risky Project Location:
+-----------------------
+The tools *should* handle project locations in any directory. However,
+due to bugs, placing projects in directories containing spaces in the
+path, or characters like ", ' and &, have had issues. We're working to
+eliminate these bugs, but to save yourself headaches you may want to
+move your project to a location where this is not a problem.
+F:\work space\build-unity5.3.2v1.0.4
+       -                            
+
+Manifest Merging:
+-----------------
+Your project uses libraries that provide manifests, and your Eclipse
+project did not explicitly turn on manifest merging. In Android Gradle
+projects, manifests are always merged (meaning that contents from your
+libraries' manifests will be merged into the app manifest. If you had
+manually copied contents from library manifests into your app manifest
+you may need to remove these for the app to build correctly.
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+From BrilliantBees:
+* .idea\
+* .idea\.name
+* .idea\BrilliantBees.iml
+* .idea\compiler.xml
+* .idea\copyright\
+* .idea\copyright\profiles_settings.xml
+* .idea\encodings.xml
+* .idea\misc.xml
+* .idea\modules.xml
+* .idea\workspace.xml
+From GoogleMobileAdsPlugin:
+* AndroidManifest.xml
+* res\
+* res\values\
+* res\values\version.xml
+From MainLibProj:
+* AndroidManifest.xml
+From unity-ads:
+* .DS_Store
+* build.xml
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+In GoogleMobileAdsPlugin:
+* libs\unity-plugin-library.jar => googleMobileAdsPlugin\libs\unity-plugin-library.jar
+* libs\UnityAdsAdapter.jar => googleMobileAdsPlugin\libs\UnityAdsAdapter.jar
+In MainLibProj:
+* libs\play-games-plugin-support.jar => mainLibProj\libs\play-games-plugin-support.jar
+In unity-ads:
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\ => unityads\src\main\java\
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\.idea\.name => unityads\src\main\resources\.idea\.name
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\.idea\BrilliantBees.iml => unityads\src\main\resources\.idea\BrilliantBees.iml
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\.idea\compiler.xml => unityads\src\main\resources\.idea\compiler.xml
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\.idea\copyright\profiles_settings.xml => unityads\src\main\resources\.idea\copyright\profiles_settings.xml
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\.idea\encodings.xml => unityads\src\main\resources\.idea\encodings.xml
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\.idea\misc.xml => unityads\src\main\resources\.idea\misc.xml
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\.idea\modules.xml => unityads\src\main\resources\.idea\modules.xml
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\.idea\workspace.xml => unityads\src\main\resources\.idea\workspace.xml
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\AndroidManifest.xml => unityads\src\main\resources\AndroidManifest.xml
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\0000000000000000f000000000000000 => unityads\src\main\resources\assets\bin\Data\0000000000000000f000000000000000
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\5bf9b42017c6747998e43553b5910158 => unityads\src\main\resources\assets\bin\Data\5bf9b42017c6747998e43553b5910158
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\64454c3e87f88514aba2b7d961c738a4 => unityads\src\main\resources\assets\bin\Data\64454c3e87f88514aba2b7d961c738a4
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\globalgamemanagers => unityads\src\main\resources\assets\bin\Data\globalgamemanagers
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\globalgamemanagers.assets => unityads\src\main\resources\assets\bin\Data\globalgamemanagers.assets
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\level0 => unityads\src\main\resources\assets\bin\Data\level0
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\level1 => unityads\src\main\resources\assets\bin\Data\level1
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\level2 => unityads\src\main\resources\assets\bin\Data\level2
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\level3 => unityads\src\main\resources\assets\bin\Data\level3
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\level4 => unityads\src\main\resources\assets\bin\Data\level4
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\Managed\Apple.dll => unityads\src\main\resources\assets\bin\Data\Managed\Apple.dll
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\Managed\Assembly-CSharp-firstpass.dll => unityads\src\main\resources\assets\bin\Data\Managed\Assembly-CSharp-firstpass.dll
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\Managed\Assembly-CSharp.dll => unityads\src\main\resources\assets\bin\Data\Managed\Assembly-CSharp.dll
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\Managed\Common.dll => unityads\src\main\resources\assets\bin\Data\Managed\Common.dll
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\Managed\Mono.Security.dll => unityads\src\main\resources\assets\bin\Data\Managed\Mono.Security.dll
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\Managed\mscorlib.dll => unityads\src\main\resources\assets\bin\Data\Managed\mscorlib.dll
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\Managed\Security.dll => unityads\src\main\resources\assets\bin\Data\Managed\Security.dll
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\Managed\Stores.dll => unityads\src\main\resources\assets\bin\Data\Managed\Stores.dll
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\Managed\System.Core.dll => unityads\src\main\resources\assets\bin\Data\Managed\System.Core.dll
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\Managed\System.dll => unityads\src\main\resources\assets\bin\Data\Managed\System.dll
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\Managed\UnityEngine.Analytics.dll => unityads\src\main\resources\assets\bin\Data\Managed\UnityEngine.Analytics.dll
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\Managed\UnityEngine.dll => unityads\src\main\resources\assets\bin\Data\Managed\UnityEngine.dll
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\Managed\UnityEngine.dll.mdb => unityads\src\main\resources\assets\bin\Data\Managed\UnityEngine.dll.mdb
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\Managed\UnityEngine.Networking.dll => unityads\src\main\resources\assets\bin\Data\Managed\UnityEngine.Networking.dll
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\Managed\UnityEngine.Purchasing.dll => unityads\src\main\resources\assets\bin\Data\Managed\UnityEngine.Purchasing.dll
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\Managed\UnityEngine.UI.dll => unityads\src\main\resources\assets\bin\Data\Managed\UnityEngine.UI.dll
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\Managed\winrt.dll => unityads\src\main\resources\assets\bin\Data\Managed\winrt.dll
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\Resources\unity_builtin_extra => unityads\src\main\resources\assets\bin\Data\Resources\unity_builtin_extra
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\settings.xml => unityads\src\main\resources\assets\bin\Data\settings.xml
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets0.assets.split0 => unityads\src\main\resources\assets\bin\Data\sharedassets0.assets.split0
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets0.assets.split1 => unityads\src\main\resources\assets\bin\Data\sharedassets0.assets.split1
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets0.assets.split10 => unityads\src\main\resources\assets\bin\Data\sharedassets0.assets.split10
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets0.assets.split11 => unityads\src\main\resources\assets\bin\Data\sharedassets0.assets.split11
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets0.assets.split12 => unityads\src\main\resources\assets\bin\Data\sharedassets0.assets.split12
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets0.assets.split13 => unityads\src\main\resources\assets\bin\Data\sharedassets0.assets.split13
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets0.assets.split14 => unityads\src\main\resources\assets\bin\Data\sharedassets0.assets.split14
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets0.assets.split15 => unityads\src\main\resources\assets\bin\Data\sharedassets0.assets.split15
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets0.assets.split16 => unityads\src\main\resources\assets\bin\Data\sharedassets0.assets.split16
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets0.assets.split17 => unityads\src\main\resources\assets\bin\Data\sharedassets0.assets.split17
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets0.assets.split18 => unityads\src\main\resources\assets\bin\Data\sharedassets0.assets.split18
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets0.assets.split19 => unityads\src\main\resources\assets\bin\Data\sharedassets0.assets.split19
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets0.assets.split2 => unityads\src\main\resources\assets\bin\Data\sharedassets0.assets.split2
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets0.assets.split20 => unityads\src\main\resources\assets\bin\Data\sharedassets0.assets.split20
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets0.assets.split21 => unityads\src\main\resources\assets\bin\Data\sharedassets0.assets.split21
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets0.assets.split22 => unityads\src\main\resources\assets\bin\Data\sharedassets0.assets.split22
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets0.assets.split23 => unityads\src\main\resources\assets\bin\Data\sharedassets0.assets.split23
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets0.assets.split24 => unityads\src\main\resources\assets\bin\Data\sharedassets0.assets.split24
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets0.assets.split25 => unityads\src\main\resources\assets\bin\Data\sharedassets0.assets.split25
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets0.assets.split26 => unityads\src\main\resources\assets\bin\Data\sharedassets0.assets.split26
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets0.assets.split27 => unityads\src\main\resources\assets\bin\Data\sharedassets0.assets.split27
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets0.assets.split28 => unityads\src\main\resources\assets\bin\Data\sharedassets0.assets.split28
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets0.assets.split3 => unityads\src\main\resources\assets\bin\Data\sharedassets0.assets.split3
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets0.assets.split4 => unityads\src\main\resources\assets\bin\Data\sharedassets0.assets.split4
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets0.assets.split5 => unityads\src\main\resources\assets\bin\Data\sharedassets0.assets.split5
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets0.assets.split6 => unityads\src\main\resources\assets\bin\Data\sharedassets0.assets.split6
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets0.assets.split7 => unityads\src\main\resources\assets\bin\Data\sharedassets0.assets.split7
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets0.assets.split8 => unityads\src\main\resources\assets\bin\Data\sharedassets0.assets.split8
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets0.assets.split9 => unityads\src\main\resources\assets\bin\Data\sharedassets0.assets.split9
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets0.resource => unityads\src\main\resources\assets\bin\Data\sharedassets0.resource
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets1.assets.split0 => unityads\src\main\resources\assets\bin\Data\sharedassets1.assets.split0
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets1.assets.split1 => unityads\src\main\resources\assets\bin\Data\sharedassets1.assets.split1
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets1.assets.split10 => unityads\src\main\resources\assets\bin\Data\sharedassets1.assets.split10
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets1.assets.split11 => unityads\src\main\resources\assets\bin\Data\sharedassets1.assets.split11
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets1.assets.split12 => unityads\src\main\resources\assets\bin\Data\sharedassets1.assets.split12
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets1.assets.split13 => unityads\src\main\resources\assets\bin\Data\sharedassets1.assets.split13
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets1.assets.split14 => unityads\src\main\resources\assets\bin\Data\sharedassets1.assets.split14
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets1.assets.split15 => unityads\src\main\resources\assets\bin\Data\sharedassets1.assets.split15
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets1.assets.split16 => unityads\src\main\resources\assets\bin\Data\sharedassets1.assets.split16
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets1.assets.split17 => unityads\src\main\resources\assets\bin\Data\sharedassets1.assets.split17
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets1.assets.split18 => unityads\src\main\resources\assets\bin\Data\sharedassets1.assets.split18
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets1.assets.split19 => unityads\src\main\resources\assets\bin\Data\sharedassets1.assets.split19
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets1.assets.split2 => unityads\src\main\resources\assets\bin\Data\sharedassets1.assets.split2
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets1.assets.split20 => unityads\src\main\resources\assets\bin\Data\sharedassets1.assets.split20
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets1.assets.split21 => unityads\src\main\resources\assets\bin\Data\sharedassets1.assets.split21
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets1.assets.split22 => unityads\src\main\resources\assets\bin\Data\sharedassets1.assets.split22
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets1.assets.split23 => unityads\src\main\resources\assets\bin\Data\sharedassets1.assets.split23
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets1.assets.split24 => unityads\src\main\resources\assets\bin\Data\sharedassets1.assets.split24
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets1.assets.split25 => unityads\src\main\resources\assets\bin\Data\sharedassets1.assets.split25
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets1.assets.split26 => unityads\src\main\resources\assets\bin\Data\sharedassets1.assets.split26
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets1.assets.split27 => unityads\src\main\resources\assets\bin\Data\sharedassets1.assets.split27
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets1.assets.split28 => unityads\src\main\resources\assets\bin\Data\sharedassets1.assets.split28
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets1.assets.split29 => unityads\src\main\resources\assets\bin\Data\sharedassets1.assets.split29
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets1.assets.split3 => unityads\src\main\resources\assets\bin\Data\sharedassets1.assets.split3
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets1.assets.split30 => unityads\src\main\resources\assets\bin\Data\sharedassets1.assets.split30
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets1.assets.split31 => unityads\src\main\resources\assets\bin\Data\sharedassets1.assets.split31
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets1.assets.split32 => unityads\src\main\resources\assets\bin\Data\sharedassets1.assets.split32
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets1.assets.split33 => unityads\src\main\resources\assets\bin\Data\sharedassets1.assets.split33
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets1.assets.split34 => unityads\src\main\resources\assets\bin\Data\sharedassets1.assets.split34
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets1.assets.split35 => unityads\src\main\resources\assets\bin\Data\sharedassets1.assets.split35
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets1.assets.split36 => unityads\src\main\resources\assets\bin\Data\sharedassets1.assets.split36
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets1.assets.split37 => unityads\src\main\resources\assets\bin\Data\sharedassets1.assets.split37
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets1.assets.split38 => unityads\src\main\resources\assets\bin\Data\sharedassets1.assets.split38
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets1.assets.split39 => unityads\src\main\resources\assets\bin\Data\sharedassets1.assets.split39
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets1.assets.split4 => unityads\src\main\resources\assets\bin\Data\sharedassets1.assets.split4
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets1.assets.split40 => unityads\src\main\resources\assets\bin\Data\sharedassets1.assets.split40
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets1.assets.split41 => unityads\src\main\resources\assets\bin\Data\sharedassets1.assets.split41
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets1.assets.split42 => unityads\src\main\resources\assets\bin\Data\sharedassets1.assets.split42
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets1.assets.split43 => unityads\src\main\resources\assets\bin\Data\sharedassets1.assets.split43
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets1.assets.split44 => unityads\src\main\resources\assets\bin\Data\sharedassets1.assets.split44
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets1.assets.split45 => unityads\src\main\resources\assets\bin\Data\sharedassets1.assets.split45
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets1.assets.split46 => unityads\src\main\resources\assets\bin\Data\sharedassets1.assets.split46
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets1.assets.split47 => unityads\src\main\resources\assets\bin\Data\sharedassets1.assets.split47
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets1.assets.split48 => unityads\src\main\resources\assets\bin\Data\sharedassets1.assets.split48
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets1.assets.split49 => unityads\src\main\resources\assets\bin\Data\sharedassets1.assets.split49
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets1.assets.split5 => unityads\src\main\resources\assets\bin\Data\sharedassets1.assets.split5
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets1.assets.split50 => unityads\src\main\resources\assets\bin\Data\sharedassets1.assets.split50
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets1.assets.split51 => unityads\src\main\resources\assets\bin\Data\sharedassets1.assets.split51
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets1.assets.split52 => unityads\src\main\resources\assets\bin\Data\sharedassets1.assets.split52
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets1.assets.split53 => unityads\src\main\resources\assets\bin\Data\sharedassets1.assets.split53
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets1.assets.split54 => unityads\src\main\resources\assets\bin\Data\sharedassets1.assets.split54
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets1.assets.split55 => unityads\src\main\resources\assets\bin\Data\sharedassets1.assets.split55
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets1.assets.split56 => unityads\src\main\resources\assets\bin\Data\sharedassets1.assets.split56
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets1.assets.split57 => unityads\src\main\resources\assets\bin\Data\sharedassets1.assets.split57
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets1.assets.split58 => unityads\src\main\resources\assets\bin\Data\sharedassets1.assets.split58
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets1.assets.split59 => unityads\src\main\resources\assets\bin\Data\sharedassets1.assets.split59
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets1.assets.split6 => unityads\src\main\resources\assets\bin\Data\sharedassets1.assets.split6
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets1.assets.split60 => unityads\src\main\resources\assets\bin\Data\sharedassets1.assets.split60
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets1.assets.split61 => unityads\src\main\resources\assets\bin\Data\sharedassets1.assets.split61
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets1.assets.split62 => unityads\src\main\resources\assets\bin\Data\sharedassets1.assets.split62
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets1.assets.split63 => unityads\src\main\resources\assets\bin\Data\sharedassets1.assets.split63
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets1.assets.split64 => unityads\src\main\resources\assets\bin\Data\sharedassets1.assets.split64
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets1.assets.split65 => unityads\src\main\resources\assets\bin\Data\sharedassets1.assets.split65
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets1.assets.split66 => unityads\src\main\resources\assets\bin\Data\sharedassets1.assets.split66
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets1.assets.split67 => unityads\src\main\resources\assets\bin\Data\sharedassets1.assets.split67
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets1.assets.split68 => unityads\src\main\resources\assets\bin\Data\sharedassets1.assets.split68
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets1.assets.split69 => unityads\src\main\resources\assets\bin\Data\sharedassets1.assets.split69
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets1.assets.split7 => unityads\src\main\resources\assets\bin\Data\sharedassets1.assets.split7
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets1.assets.split70 => unityads\src\main\resources\assets\bin\Data\sharedassets1.assets.split70
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets1.assets.split71 => unityads\src\main\resources\assets\bin\Data\sharedassets1.assets.split71
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets1.assets.split72 => unityads\src\main\resources\assets\bin\Data\sharedassets1.assets.split72
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets1.assets.split73 => unityads\src\main\resources\assets\bin\Data\sharedassets1.assets.split73
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets1.assets.split74 => unityads\src\main\resources\assets\bin\Data\sharedassets1.assets.split74
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets1.assets.split75 => unityads\src\main\resources\assets\bin\Data\sharedassets1.assets.split75
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets1.assets.split76 => unityads\src\main\resources\assets\bin\Data\sharedassets1.assets.split76
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets1.assets.split77 => unityads\src\main\resources\assets\bin\Data\sharedassets1.assets.split77
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets1.assets.split78 => unityads\src\main\resources\assets\bin\Data\sharedassets1.assets.split78
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets1.assets.split79 => unityads\src\main\resources\assets\bin\Data\sharedassets1.assets.split79
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets1.assets.split8 => unityads\src\main\resources\assets\bin\Data\sharedassets1.assets.split8
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets1.assets.split80 => unityads\src\main\resources\assets\bin\Data\sharedassets1.assets.split80
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets1.assets.split81 => unityads\src\main\resources\assets\bin\Data\sharedassets1.assets.split81
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets1.assets.split82 => unityads\src\main\resources\assets\bin\Data\sharedassets1.assets.split82
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets1.assets.split83 => unityads\src\main\resources\assets\bin\Data\sharedassets1.assets.split83
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets1.assets.split84 => unityads\src\main\resources\assets\bin\Data\sharedassets1.assets.split84
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets1.assets.split85 => unityads\src\main\resources\assets\bin\Data\sharedassets1.assets.split85
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets1.assets.split86 => unityads\src\main\resources\assets\bin\Data\sharedassets1.assets.split86
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets1.assets.split87 => unityads\src\main\resources\assets\bin\Data\sharedassets1.assets.split87
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets1.assets.split88 => unityads\src\main\resources\assets\bin\Data\sharedassets1.assets.split88
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets1.assets.split89 => unityads\src\main\resources\assets\bin\Data\sharedassets1.assets.split89
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets1.assets.split9 => unityads\src\main\resources\assets\bin\Data\sharedassets1.assets.split9
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets1.resource => unityads\src\main\resources\assets\bin\Data\sharedassets1.resource
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets2.assets.split0 => unityads\src\main\resources\assets\bin\Data\sharedassets2.assets.split0
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets2.assets.split1 => unityads\src\main\resources\assets\bin\Data\sharedassets2.assets.split1
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets2.assets.split10 => unityads\src\main\resources\assets\bin\Data\sharedassets2.assets.split10
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets2.assets.split11 => unityads\src\main\resources\assets\bin\Data\sharedassets2.assets.split11
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets2.assets.split2 => unityads\src\main\resources\assets\bin\Data\sharedassets2.assets.split2
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets2.assets.split3 => unityads\src\main\resources\assets\bin\Data\sharedassets2.assets.split3
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets2.assets.split4 => unityads\src\main\resources\assets\bin\Data\sharedassets2.assets.split4
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets2.assets.split5 => unityads\src\main\resources\assets\bin\Data\sharedassets2.assets.split5
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets2.assets.split6 => unityads\src\main\resources\assets\bin\Data\sharedassets2.assets.split6
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets2.assets.split7 => unityads\src\main\resources\assets\bin\Data\sharedassets2.assets.split7
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets2.assets.split8 => unityads\src\main\resources\assets\bin\Data\sharedassets2.assets.split8
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets2.assets.split9 => unityads\src\main\resources\assets\bin\Data\sharedassets2.assets.split9
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets3.assets.split0 => unityads\src\main\resources\assets\bin\Data\sharedassets3.assets.split0
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets3.assets.split1 => unityads\src\main\resources\assets\bin\Data\sharedassets3.assets.split1
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets3.assets.split10 => unityads\src\main\resources\assets\bin\Data\sharedassets3.assets.split10
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets3.assets.split11 => unityads\src\main\resources\assets\bin\Data\sharedassets3.assets.split11
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets3.assets.split2 => unityads\src\main\resources\assets\bin\Data\sharedassets3.assets.split2
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets3.assets.split3 => unityads\src\main\resources\assets\bin\Data\sharedassets3.assets.split3
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets3.assets.split4 => unityads\src\main\resources\assets\bin\Data\sharedassets3.assets.split4
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets3.assets.split5 => unityads\src\main\resources\assets\bin\Data\sharedassets3.assets.split5
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets3.assets.split6 => unityads\src\main\resources\assets\bin\Data\sharedassets3.assets.split6
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets3.assets.split7 => unityads\src\main\resources\assets\bin\Data\sharedassets3.assets.split7
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets3.assets.split8 => unityads\src\main\resources\assets\bin\Data\sharedassets3.assets.split8
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets3.assets.split9 => unityads\src\main\resources\assets\bin\Data\sharedassets3.assets.split9
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets4.assets.split0 => unityads\src\main\resources\assets\bin\Data\sharedassets4.assets.split0
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\sharedassets4.assets.split1 => unityads\src\main\resources\assets\bin\Data\sharedassets4.assets.split1
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\splash.png => unityads\src\main\resources\assets\bin\Data\splash.png
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\assets\bin\Data\unity default resources => unityads\src\main\resources\assets\bin\Data\unity default resources
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\libs\AmazonAppStore.aar => unityads\src\main\resources\libs\AmazonAppStore.aar
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\libs\appcompat-v7-23.1.1.aar => unityads\src\main\resources\libs\appcompat-v7-23.1.1.aar
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\libs\armeabi-v7a\libgpg.so => unityads\src\main\resources\libs\armeabi-v7a\libgpg.so
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\libs\armeabi-v7a\libmain.so => unityads\src\main\resources\libs\armeabi-v7a\libmain.so
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\libs\armeabi-v7a\libmono.so => unityads\src\main\resources\libs\armeabi-v7a\libmono.so
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\libs\armeabi-v7a\libunity.so => unityads\src\main\resources\libs\armeabi-v7a\libunity.so
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\libs\common.aar => unityads\src\main\resources\libs\common.aar
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\libs\GoogleAIDL.aar => unityads\src\main\resources\libs\GoogleAIDL.aar
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\libs\GooglePlay.aar => unityads\src\main\resources\libs\GooglePlay.aar
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\libs\play-services-ads-8.4.0.aar => unityads\src\main\resources\libs\play-services-ads-8.4.0.aar
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\libs\play-services-base-8.4.0.aar => unityads\src\main\resources\libs\play-services-base-8.4.0.aar
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\libs\play-services-basement-8.4.0.aar => unityads\src\main\resources\libs\play-services-basement-8.4.0.aar
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\libs\play-services-drive-8.4.0.aar => unityads\src\main\resources\libs\play-services-drive-8.4.0.aar
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\libs\play-services-games-8.4.0.aar => unityads\src\main\resources\libs\play-services-games-8.4.0.aar
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\libs\play-services-nearby-8.4.0.aar => unityads\src\main\resources\libs\play-services-nearby-8.4.0.aar
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\libs\play-services-plus-8.4.0.aar => unityads\src\main\resources\libs\play-services-plus-8.4.0.aar
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\libs\support-v4-23.1.1.aar => unityads\src\main\resources\libs\support-v4-23.1.1.aar
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\libs\x86\libgpg.so => unityads\src\main\resources\libs\x86\libgpg.so
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\libs\x86\libmain.so => unityads\src\main\resources\libs\x86\libmain.so
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\libs\x86\libmono.so => unityads\src\main\resources\libs\x86\libmono.so
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\libs\x86\libunity.so => unityads\src\main\resources\libs\x86\libunity.so
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\project.properties => unityads\src\main\resources\project.properties
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\res\drawable-hdpi\app_icon.png => unityads\src\main\resources\res\drawable-hdpi\app_icon.png
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\res\drawable-ldpi\app_icon.png => unityads\src\main\resources\res\drawable-ldpi\app_icon.png
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\res\drawable-xhdpi\app_icon.png => unityads\src\main\resources\res\drawable-xhdpi\app_icon.png
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\res\drawable-xxhdpi\app_icon.png => unityads\src\main\resources\res\drawable-xxhdpi\app_icon.png
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\res\drawable-xxxhdpi\app_icon.png => unityads\src\main\resources\res\drawable-xxxhdpi\app_icon.png
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\res\drawable\app_icon.png => unityads\src\main\resources\res\drawable\app_icon.png
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\res\values-v21\styles.xml => unityads\src\main\resources\res\values-v21\styles.xml
+* F:\unity workspace\BrilliantBees\build\android-build\build-unity5.3.2v1.0.4\BrilliantBees\res\values\strings.xml => unityads\src\main\resources\res\values\strings.xml
+* AndroidManifest.xml => unityads\src\main\AndroidManifest.xml
+* libs\unity-ads.jar => unityads\libs\unity-ads.jar
+* proguard-project.txt => unityads\proguard-project.txt
+* res\ => unityads\src\main\res\
+In BrilliantBees:
+* AndroidManifest.xml => brilliantBees\src\main\AndroidManifest.xml
+* assets\ => brilliantBees\src\main\assets\
+* libs\armeabi-v7a\libgpg.so => brilliantBees\src\main\jniLibs\armeabi-v7a\libgpg.so
+* libs\armeabi-v7a\libmain.so => brilliantBees\src\main\jniLibs\armeabi-v7a\libmain.so
+* libs\armeabi-v7a\libmono.so => brilliantBees\src\main\jniLibs\armeabi-v7a\libmono.so
+* libs\armeabi-v7a\libunity.so => brilliantBees\src\main\jniLibs\armeabi-v7a\libunity.so
+* libs\support-annotations-23.4.0.jar => brilliantBees\libs\support-annotations-23.4.0.jar
+* libs\unity-classes.jar => brilliantBees\libs\unity-classes.jar
+* libs\x86\libgpg.so => brilliantBees\src\main\jniLibs\x86\libgpg.so
+* libs\x86\libmain.so => brilliantBees\src\main\jniLibs\x86\libmain.so
+* libs\x86\libmono.so => brilliantBees\src\main\jniLibs\x86\libmono.so
+* libs\x86\libunity.so => brilliantBees\src\main\jniLibs\x86\libunity.so
+* res\ => brilliantBees\src\main\res\
+* src\ => brilliantBees\src\main\java\
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

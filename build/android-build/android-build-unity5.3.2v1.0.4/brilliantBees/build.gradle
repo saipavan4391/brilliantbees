@@ -1,0 +1,38 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion "23.0.3"
+
+    defaultConfig {
+        applicationId "com.vgsz.brilliantbees"
+        minSdkVersion 9
+        targetSdkVersion 23
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+    repositories {
+        flatDir {
+            dirs 'libs'
+        }
+    }
+}
+
+dependencies {
+    compile files('libs/unity-classes.jar')
+    compile files('libs/play-games-plugin-support.jar')
+    compile files('libs/unity-plugin-library.jar')
+    compile(name: 'common', ext: 'aar')
+    compile(name: 'GoogleAIDL', ext: 'aar')
+    compile(name: 'GooglePlay', ext: 'aar')
+    compile files('libs/google-play-services.jar')
+    compile 'com.android.support:support-v4:23.4.0'
+    compile files('libs/UnityAdsAdapter.jar')
+    compile project(':unity-ads')
+
+}

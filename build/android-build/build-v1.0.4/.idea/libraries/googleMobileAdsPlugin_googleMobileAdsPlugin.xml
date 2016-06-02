@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="googleMobileAdsPlugin.googleMobileAdsPlugin">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/googleMobileAdsPlugin/build/libs/googleMobileAdsPlugin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

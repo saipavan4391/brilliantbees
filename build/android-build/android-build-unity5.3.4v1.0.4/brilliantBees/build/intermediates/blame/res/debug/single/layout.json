@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\work space\\build-unity5.3.4v1.0.4\\brilliantBees\\build\\intermediates\\res\\merged\\debug\\layout\\unityads_button_audio_toggle.xml",
+        "source": "F:\\work space\\build-unity5.3.4v1.0.4\\brilliantBees\\build\\intermediates\\exploded-aar\\build-unity5.3.4v1.0.4\\unity-ads\\unspecified\\res\\layout\\unityads_button_audio_toggle.xml"
+    },
+    {
+        "merged": "F:\\work space\\build-unity5.3.4v1.0.4\\brilliantBees\\build\\intermediates\\res\\merged\\debug\\layout\\unityads_view_video_play.xml",
+        "source": "F:\\work space\\build-unity5.3.4v1.0.4\\brilliantBees\\build\\intermediates\\exploded-aar\\build-unity5.3.4v1.0.4\\unity-ads\\unspecified\\res\\layout\\unityads_view_video_play.xml"
+    },
+    {
+        "merged": "F:\\work space\\build-unity5.3.4v1.0.4\\brilliantBees\\build\\intermediates\\res\\merged\\debug\\layout\\unityads_button_pause.xml",
+        "source": "F:\\work space\\build-unity5.3.4v1.0.4\\brilliantBees\\build\\intermediates\\exploded-aar\\build-unity5.3.4v1.0.4\\unity-ads\\unspecified\\res\\layout\\unityads_button_pause.xml"
+    },
+    {
+        "merged": "F:\\work space\\build-unity5.3.4v1.0.4\\brilliantBees\\build\\intermediates\\res\\merged\\debug\\layout\\unityads_view_video_paused.xml",
+        "source": "F:\\work space\\build-unity5.3.4v1.0.4\\brilliantBees\\build\\intermediates\\exploded-aar\\build-unity5.3.4v1.0.4\\unity-ads\\unspecified\\res\\layout\\unityads_view_video_paused.xml"
+    }
+]
